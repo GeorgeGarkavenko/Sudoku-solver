@@ -1,2 +1,2 @@
 # Sudoku-solver
-Small script that solve every sudok
+Small script that solves every sudoku puzzle.
